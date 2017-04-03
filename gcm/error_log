@@ -1,0 +1,6 @@
+[15-Dec-2014 09:35:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/indiaping/public_html/gcm/db_functions.php on line 56
+[15-Dec-2014 09:37:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/indiaping/public_html/gcm/db_functions.php on line 56
+[15-Dec-2014 09:37:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/indiaping/public_html/gcm/db_functions.php on line 56
+[15-Dec-2014 09:38:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/indiaping/public_html/gcm/db_functions.php on line 59
+[18-Dec-2014 11:10:33 UTC] PHP Notice:  Undefined variable: get_id in /home/indiaping/public_html/gcm/db_functions.php on line 34
+[18-Dec-2014 11:10:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/indiaping/public_html/gcm/db_functions.php on line 34
